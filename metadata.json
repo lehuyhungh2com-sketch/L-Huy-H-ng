@@ -1,0 +1,6 @@
+{
+  "name": "LHL Class Ranking - THCS Lê Hữu Lập",
+  "description": "Hệ thống quản lý và xếp loại thi đua các lớp học Trường THCS Lê Hữu Lập năm học 2026-2027",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

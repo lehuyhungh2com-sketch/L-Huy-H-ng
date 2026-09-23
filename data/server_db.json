@@ -1,0 +1,62 @@
+{
+  "auditLogs": [
+    {
+      "id": "audit_1790177441254",
+      "timestamp": "2026-09-23T15:30:41.254Z",
+      "userId": "u_teacher_6a1",
+      "userName": "CÃ´ Nguyá»n Thá» Mai",
+      "userRole": "gvcn",
+      "action": "GUI_DE_NGHI_DIEU_CHINH",
+      "entityType": "appeal",
+      "entityId": "appeal_1790177441254",
+      "campusId": "lhl_main",
+      "classId": "c_6a1",
+      "beforeData": null,
+      "afterData": {
+        "id": "appeal_1790177441254",
+        "createdAt": "2026-09-23T15:30:41.254Z",
+        "classId": "c_6a1",
+        "className": "6A1",
+        "campusId": "lhl_main",
+        "campusName": "Khu Trung Tâm",
+        "teacherId": "u_teacher_6a1",
+        "teacherName": "CÃ´ Nguyá»n Thá» Mai",
+        "week": 4,
+        "scoreLogId": null,
+        "criteriaName": "Tác phong",
+        "appealType": "remove_penalty",
+        "reason": "Học sinh đã bổ sung thẻ sau tiết 1",
+        "evidenceNotes": "",
+        "proposedPoints": 1,
+        "status": "pending"
+      },
+      "details": "GVCN CÃ´ Nguyá»n Thá» Mai gửi phản hồi/đề nghị điều chỉnh điểm Tuần 4 cho lớp 6A1: Học sinh đã bổ sung thẻ sau tiết 1"
+    }
+  ],
+  "appeals": [
+    {
+      "id": "appeal_1790177441254",
+      "createdAt": "2026-09-23T15:30:41.254Z",
+      "classId": "c_6a1",
+      "className": "6A1",
+      "campusId": "lhl_main",
+      "campusName": "Khu Trung Tâm",
+      "teacherId": "u_teacher_6a1",
+      "teacherName": "CÃ´ Nguyá»n Thá» Mai",
+      "week": 4,
+      "scoreLogId": null,
+      "criteriaName": "Tác phong",
+      "appealType": "remove_penalty",
+      "reason": "Học sinh đã bổ sung thẻ sau tiết 1",
+      "evidenceNotes": "",
+      "proposedPoints": 1,
+      "status": "pending"
+    }
+  ],
+  "lockedWeeks": [
+    1,
+    2,
+    3
+  ],
+  "lastUpdated": "2026-09-23T15:30:41.254Z"
+}
